@@ -1,0 +1,14 @@
+html,
+body{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.inputWrapper input{
+    border-top-right-radius: 0!important;
+    border-bottom-right-radius: 0!important;
+}
+.inputWrapper button{
+    border-top-left-radius: 0!important;
+    border-bottom-left-radius: 0!important;
+}
